@@ -1,2 +1,4 @@
 ls
-#this isiidfdsf
+ls -a
+ls -la
+ls -t
